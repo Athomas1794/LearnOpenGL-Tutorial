@@ -1,5 +1,5 @@
 # LearnOpenGL-Tutorial
-My first opengl project with notes at each step using Visual Studio 19
+Introductory OpenGl project with notes at each step using Visual Studio 19
 
 ## Additional Dependencies
 GLFW was compiled manually using CMAKE, and GLAD was used to load windows specific OpenGL functions for use based on your local graphics configurations.
